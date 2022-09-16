@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-	background-image: url(/assets/images/Fundo.jpg);
+	background-image: url(./assets/images/Fundo.jpg);
 	background-position: top center;
 	background-size: 100% auto;
 	background-repeat: no-repeat;
